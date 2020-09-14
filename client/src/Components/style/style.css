@@ -1,0 +1,23 @@
+thead{
+    /* color: darkblue; */
+    color: white;
+    background-color: #333333;
+}
+.navbar{
+    background-color: black;
+}
+
+.footer-middle {
+  background-color: var(--mainDark);
+  padding-top: 3rem;
+  color: var(--mainWhite);
+
+}
+
+.footer-bottom {
+   
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  
+  }
+  
